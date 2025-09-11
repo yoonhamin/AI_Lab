@@ -36,3 +36,17 @@ except ImportError as e:
 
 except Exception as e:
     print(f"An error occurred while testing PyTorch: {e}")
+
+
+
+#PyTorch is successfully imported!
+#PyTorch version: 2.5.1
+#Using device: cuda
+#CUDA is available! Device count: 1
+#Current CUDA device: NVIDIA GeForce RTX 4070 Ti
+#Test tensor created: tensor([1, 2, 3, 4, 5], device='cuda:0')
+#Tensor shape: torch.Size([5])
+#Tensor device: cuda:0
+#Basic operation test (squaring): tensor([ 1,  4,  9, 16, 25], device='cuda:0')
+#Tensor device after operation: cuda:0
+
