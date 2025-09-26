@@ -1,3 +1,6 @@
+# Note
+files has been moved to each week folders 
+
 # Operator
 - Yoon Hamin 2021076002
 
